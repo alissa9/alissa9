@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ikbal
+- 👋 Hi, I’m Ikbal Alissa
 - 👀 I’m interested in Artificial Intelligence 🤖
 - 🌱 I’m currently learning Computer Science in Middlesex University
 - 📫 How to reach me m99alissa@gmail.com
