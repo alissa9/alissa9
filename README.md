@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ikbal
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Artificial Intelligence 🤖
 - 🌱 I’m currently learning Computer Science in Middlesex University
 - 📫 How to reach me m99alissa@gmail.com
 
